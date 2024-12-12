@@ -25,6 +25,6 @@ void generate_subsets(vector<int> &nums){
 
 int main(){
     // example
-    vector<int> nums = {1, 2, 3};
+    vector<int> nums = {1, 2, 3, 4};
     generate_subsets(nums);
 }
